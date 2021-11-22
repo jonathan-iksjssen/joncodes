@@ -1,0 +1,11 @@
+@font-face {
+ font-family: 'Inter';
+ src: url(Inter.var.woff2) format('woff'),
+      url(Inter.var.ttf) format('truetype');
+}
+
+body {
+  background-color: white;
+  color: black;
+  font-family: "Inter", "Helvetica Neue", "Segoe UI", "Consolas", "Arial";
+}
